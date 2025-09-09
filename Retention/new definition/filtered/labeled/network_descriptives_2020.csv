@@ -1,0 +1,2 @@
+nodes,edges,density,avg_in_degree,avg_out_degree,max_in_degree,max_out_degree,assortativity,reciprocity,num_scc,num_wcc,largest_scc_size,avg_shortest_path
+31235,118092,0.00012104625613776075,3.7807587642068192,3.7807587642068192,1417,1170,-0.0822968475101434,0.48668834468041866,15274,267,15172,2.9930547346872625

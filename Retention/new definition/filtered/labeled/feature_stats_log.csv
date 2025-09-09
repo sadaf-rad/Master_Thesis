@@ -1,0 +1,3 @@
+retained_20,raw_degree_mean,raw_degree_std,betweenness_centrality_mean,betweenness_centrality_std,degree_centrality_mean,degree_centrality_std,global_clustering_mean,global_clustering_std,degree_comm_mean,degree_comm_std,clustering_comm_mean,clustering_comm_std,betweenness_comm_mean,betweenness_comm_std
+0.0,1.393976,0.873613,6.8e-05,0.001403,0.000229,0.000884,0.33697,0.419852,6.669099,25.175615,0.339141,0.423398,0.002024,0.020697
+1.0,2.02293,1.101776,0.000195,0.001083,0.000516,0.001335,0.459192,0.40701,15.207339,39.030696,0.462918,0.407524,0.004665,0.024287

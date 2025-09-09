@@ -1,0 +1,9 @@
+threshold,label,retained_users,not_retained_users
+0.15,retained_15,2599,39128
+0.2,retained_20,1972,39755
+0.25,retained_25,1685,40042
+0.3,retained_30,1489,40238
+0.35,retained_35,1325,40402
+0.4,retained_40,1210,40517
+0.45,retained_45,1112,40615
+0.5,retained_50,1012,40715

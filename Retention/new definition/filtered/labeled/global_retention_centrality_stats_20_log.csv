@@ -1,0 +1,13 @@
+level,centrality,metric_column,retention_label,count,mean_log,std_log
+global,raw_degree,raw_degree,all,30690,1.4386521492889321,0.9062453608549098
+global,raw_degree,raw_degree,0,28510,1.3939756964531254,0.8736129062468976
+global,raw_degree,raw_degree,1,2180,2.02292997972616,1.101776267722635
+global,betweenness,betweenness_centrality,all,30690,7.744570548016466e-05,0.0013834020623634839
+global,betweenness,betweenness_centrality,0,28510,6.844509459498146e-05,0.0014033557535739138
+global,betweenness,betweenness_centrality,1,2180,0.00019515552948776174,0.001082697470389191
+global,clustering,global_clustering,all,30690,0.2516501197441218,0.29457072379922733
+global,clustering,global_clustering,0,28510,0.2450095699304498,0.29450755690967145
+global,clustering,global_clustering,1,2180,0.3384951083623158,0.2813824761985436
+global,weighted_degree,weighted_degree,all,30690,6.134369784970381,1.7752339841175109
+global,weighted_degree,weighted_degree,0,28510,6.08610446604722,1.7244521011331204
+global,weighted_degree,weighted_degree,1,2180,6.765582740247315,2.2470029241148604

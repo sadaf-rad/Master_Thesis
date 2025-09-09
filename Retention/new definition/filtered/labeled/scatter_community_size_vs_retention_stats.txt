@@ -1,0 +1,4 @@
+Community size vs. retention rate (community means)
+Communities used (>5 users filter applied): 78
+Pearson r: 0.027388
+R^2: 0.000750
